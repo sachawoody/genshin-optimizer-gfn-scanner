@@ -1,0 +1,14 @@
+# Local environment
+.venv/
+__pycache__/
+*.pyc
+
+# Account data: captures (UID visible), GOOD exports, personal settings
+debug/
+captures/
+good.json
+good_partial.json
+config.json
+
+# Game data downloaded from gi.yatta.moe (recreated on first run)
+data_cache/

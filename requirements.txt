@@ -1,0 +1,4 @@
+pillow
+numpy
+rapidfuzz
+pytesseract

@@ -1,0 +1,3 @@
+@echo off
+rem Runs scan.py with the project's virtual environment: scan artifacts, scan weapons, ...
+"%~dp0.venv\Scripts\python.exe" "%~dp0scan.py" %*
